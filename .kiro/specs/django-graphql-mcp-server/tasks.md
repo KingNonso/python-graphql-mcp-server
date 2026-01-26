@@ -12,7 +12,7 @@ This implementation plan creates a Node.js-based MCP server that exposes Django 
   - Set up TypeScript configuration for development
   - _Requirements: 6.2_
 
-- [-] 1.1 Write property test for package manager compatibility
+- [ ] 1.1 Write property test for package manager compatibility
   - **Property 17: Package manager support**
   - **Validates: Requirements 6.2**
 
@@ -55,8 +55,8 @@ This implementation plan creates a Node.js-based MCP server that exposes Django 
     - **Property 18: Path independence execution**
     - **Validates: Requirements 6.5**
 
-- [ ] 4. Implement MCP server core functionality
-  - [ ] 4.1 Set up MCP protocol implementation
+- [-] 4. Implement MCP server core functionality
+  - [x] 4.1 Set up MCP protocol implementation
     - Configure mcp-graphql package with stdio transport
     - Implement tool registration for introspect_graphql_schema and execute_graphql_query
     - Add proper JSON-RPC message handling

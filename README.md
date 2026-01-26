@@ -1,6 +1,6 @@
-# Django GraphQL MCP Server
+# Python (Django) GraphQL MCP Server
 
-MCP server for Django GraphQL integration.
+MCP server for Python (Django) GraphQL integration.
 
 ## Setup
 

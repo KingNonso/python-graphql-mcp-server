@@ -1,5 +1,5 @@
 {
-  "name": "django-graphql-mcp-server",
+  "name": "python-graphql-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for Django GraphQL integration",
   "main": "dist/index.js",
@@ -29,6 +29,6 @@
     "graphql",
     "django"
   ],
-  "author": "",
+  "author": "Chinonso Ani",
   "license": "MIT"
 }
